@@ -1,7 +1,6 @@
 ## 欢迎光临康盛佳华宣传页
 
-
-<section class="">
+<section class="WELCOME">
     <div class="post_content">
         <p>
             
