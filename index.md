@@ -5,7 +5,7 @@
         <p>
             
             <br><br>
-            <img src="http://liedlee.github.io/K/img/01.jpg">
+            <img src="http://liedlee.github.io/K/img/welcome.png">
            
         </p>
         <p>
